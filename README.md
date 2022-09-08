@@ -1,5 +1,12 @@
-### Hi there 👋
+# <p align="center">Hi! I'm Santiago Fernández</p>
+<p><img width=100% src="https://s5.gifyu.com/images/ezgif.com-gif-maker-35047fd82f2c4fec8.gif" alt="gif" /></p>
+<p align="center">I'm studying software developer at Holberton School</p>
 
+<h2 align="center">Languages</h2>
+<div>
+  C language
+  Python
+</div>
 <!--
 **TotiFlame/TotiFlame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

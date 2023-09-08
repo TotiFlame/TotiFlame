@@ -25,6 +25,11 @@ I'm a software developer, looking forward to putting my skills into practice and
 		</a>
 	</div>
 	<div align="center">
+		<a href="https://github.com/TotiFlame/my-portfolio">
+				My Portfolio
+		</a>
+	</div>
+	<div align="center">
 		<a href="https://github.com/LeandroPintosChelli/holbertonschool-simple_shell">
 				Shell (Command interpreter in C)
 		</a>

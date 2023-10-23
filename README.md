@@ -44,6 +44,3 @@ I'm a software developer, looking forward to putting my skills into practice and
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </div>
-<div align="center">
-<img  src="https://imageupload.io/ib/s9r0gJhqp7iDVkr_1690857774.jpg" alt="ba7a42759e2eca709ffdfd77af921957.jpg"/>
-</div>

@@ -1,8 +1,5 @@
 <header>
 	<h1 align="center">Hi! I'm Santiago Fernández 🎧 </h1>
-	<p align="center">	
-			<img src="https://imageupload.io/ib/Fv8xnK0AKENHdfN_1690854913.jpg"/>
-	</p>
 </header>
 <p align="center">
 I'm a software developer, looking forward to putting my skills into practice and acquire new ones in a first work experience.
